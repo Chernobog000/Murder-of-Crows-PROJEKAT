@@ -1,0 +1,699 @@
+- card: 0 The Fool
+  text: >
+    It begins with a cry in the darkness, the first herald of a lonesome journey. The trail unrolls itself before you through unfamiliar terrain. Here and now you can be exactly who you say you are. Your first step is imminent and it can-not be retaken. Heed the bird's warning. Allow its full-throated cry to echo before you, calling the path ahead out of the smoke and mire. Set yourself into motion even though the second and third steps remain uncertain
+  keywords:
+    - The call of the unknown
+    - the step yet untaken
+    - human frailty
+
+- card: I The Magician
+  text: >
+    The in-drawn breath becomes the exhalation. Now is the time for the words of power. You speak your mind and your wishes become truths. The powers of insight, healing, will, and connection obey your command and what you envision becomes a new reality. The elemental powers are in balance, there at your fingertips to help you shape and change your reality. Draw their power into yourself, decide that you belong here, believe it of yourself that you have earned this place.
+  keywords:
+    - Strength of will
+    - manifestation
+    - use of magic words
+    - manipulation
+
+- card: II The High Priestess
+  text: >
+    They croak and cry all about you, hemming you in and feathering their nests with bits and pieces they steal from you. Dim the outer lights and let the ordinary senses become dulled. Shut them out entirely. Pour yourself into the silence that pools around you in the silver light of the moon. Drift down past dreams, hopes and desires releasing them as you submerge until you reach the center, until you comprehend the truth.
+  keywords:
+    - Looking within
+    - donning the shroud of wisdom
+    - shedding the pretense of obvious opinions
+    - contemplation of many possibilities
+
+- card: III The Empress
+  text: >
+    A haunting lullaby calls from out of the darkness. It speaks to you of safety and security, a mother's eternal and unyielding love. A hand takes your hand, bearing you up against the coming storm. Her lips kiss your forehead and leave a mark protecting you in your journey through the night. You were born from her egg, as were all who live. There is healing to be found in her kindness-- just be careful not to drown in it.
+  keywords:
+    - Nurturing
+    - self-care
+    - sensuality
+    - love and loyalty
+    - compassion for all
+    - fertility and prosperity
+    - motherhood
+    - smothering and obsessive behavior
+
+- card: IV The Emperor
+  text: >
+    A firm hand takes your shoulder and ushers you to the high seat of power. The clouds part and you can see a vast dominion. Nothing escapes his attention. One eye sees the surface of all things while the other sees the hidden truths, the normally invisible depths. Crows wheel above him, bringing the messages that he needs to govern his domain. His mind is steel, his words are iron and his judgement is forever. He receives counsel for good and ill. His years of leadership allow him to know the difference
+  keywords:
+    - Rule of law
+    - good governance
+    - wise advice
+    - leadership and political acumen
+    - fatherhood
+    - authoritarianism and ruthlessness
+
+- card: V The Hierophant
+  text: >
+    Bells of bronze sing out between the mountains and over the valleys of this strange land, calling the faithful to attend to what is needful. A cathedral soars before you, strong, imposing and ancient beyond memory. Within its halls the mysteries are made plain. A narrow door opens out upon the world and a robed man stands in your path. To submit is to be made worthy, to join the choir of fellowship and sing the ancient hymns. The only path into this hallowed hall requires going through this pious guardian.
+  keywords:
+    - Traditional values
+    - conservative approaches
+    - submit to a higher power
+    - gatekeeping
+    - the voice of Heaven
+    - cooperate
+    - earn your place
+    - dogmatic approaches
+
+- card: VI The Lovers
+  text: >
+    At long last, weary of wandering, you see that you are not in fact alone on this road. Another soul searches through this strange land for meaning and redemption. The choice is before you, a decision of great consequence. To eat of the fruit of the sacred tree will bring your hearts into alignment, and your paths will join. The dark angel lifts its wings above you both, giving its sincere blessing. Your hand hesitates beneath the branches. Are you ready to bite into the flesh that will erase loneliness of independence? The juice on their lips smells sweet and inviting.
+  keywords:
+    - A chance for union
+    - draw strength from passion
+    - find your missing half
+    - choice between two paths
+    - companionship and romance
+    - dependence
+
+- card: VII The Chariot
+  text: >
+    In this new world of doubt and fear you cannot remain small and hidden forever. The time has come to choose to rise above and be more than you have been. Step into the cart and you can fly faster and farther, all you need do is hang on for dear life. Bring the chaotic strands together and weave them into the harness that will fuel your travels. Harness power, put on the mask you wish to present the world.
+  keywords:
+    - Victory
+    - movement and travel
+    - vehicles
+    - power over others
+    - exert control over the external world
+    - conquest
+    - vengeance
+
+- card: VIII Strength
+  text: >
+    You can sense and feel the changes within you more than you can see them. Your trials in this wasteland have made you strong. And what is to come requires that you be stronger than you have ever been. You hear the rumbles of your power deep within; your greatest adversary cannot escape. Your unending strength dwells in your mind, your heart, your blood. It scratches at its bonds, ready to tear and rend and devour. It can never be silenced - there's no need to even try. It can listen. It can be cajoled. It can be loved. This task will take all your reserves but after all, it's what you have been preparing for.
+  keywords:
+    - Power from within
+    - overcome the inner Saboteur
+    - master restraint
+    - wrestle with the Shadow
+
+- card: IX The Hermit
+  text: >
+    What is the aim of this endless wandering? What would journey's end look like? You have heard answers from so many but their truth is not your own. There are hidden passages known only to you that can take you to heights where you might peer at the stars and scrape wisdom down from the heavens. The stairs ascend before you by the thousands. The iron bars of the birdcage are a heavy burden as you climb and the bird bristles at its captivity, but once you attain the summit you shall fly free.
+  keywords:
+    - Solitude
+    - find your own truth
+    - search your soul
+    - loneliness and quiet
+    - asceticism
+    - retreat from the community
+
+- card: X The Wheel of Fortune
+  text: >
+    The wheel spins and you rise to the top; it spins again and sends you crashing down into the briars. What goes up must come down. Today, tomorrow, next year, some year. Time has no interest in our comforts, our decisions, all our plans and schemes, our hopes and fears. It is the apex predator in this strange landscape. It buoys you up, it pulls you down. The moment will come again when you have the power to choose. While you cannot change the greater workings of the universe, you may choose what to do when chance is in your favor. You decide what to do when you are again at the bottom of the heap.
+  keywords:
+    - A change in fortune
+    - the passage of the seasons
+    - a fleeting opportunity
+    - ups and downs
+    - temporary setbacks
+
+- card: XI Justice
+  text: >
+    You travel through a realm where illusions and shadows gather around you, muddling your vision in shades of gray. And then her voice, the voice of truth. It rings in your mind, as clear as crystal. There is black, there is white, there is right and wrong, and you can discern the difference. The scales click into balance and she places her sword in your hands. She trusts you to take the needed action at the right moment.
+  keywords:
+    - Balance
+    - right action
+    - severe ties that no longer serve
+    - perceive the situation
+    - act decisively
+
+- card: XII The Hanged Man
+  text: >
+    Caught. Your feet are bound and your body hangs in the void. You struggle, you cry out, but the only answer is the mocking cry of the crows. In this place of loneliness you still have yourself. Bide your time; let your bonds become your anchor. In the stillness your unbound spirit flies free. From this new vantage point, the world may seem strange to your eyes. Perhaps it was always this way and it took an unexpected inversion for you to see it for itself.
+  keywords:
+    - Vulnerability
+    - stillness
+    - a new point of view
+    - initiation
+    - powerlessness
+    - vision quest
+    - a deserved punishment
+
+- card: XIII Death
+  text: >
+    And now has he come, the herald of all endings, the angel of oblivion. Black wings spread above him, blotting out the stars. It is the silence between one word and the next. He is time, the great devourer. It serves no purpose to struggle against the door he closes before you. Your task now is to find a new path.
+  keywords:
+    - Closure
+    - closing the present chapter
+    - sickness and weakness
+    - fear of change
+    - the chance for something new to grow out of the ashes of the old
+
+- card: XIV Temperance
+  text: >
+    Dark wings part to reveal the face of the Angel. She pours a healing draught into the golden chalice and you pray that she will lift it to your parched lips. She has poured out just enough to restore you and that is the secret she has come to teach. In a life filled with need and longing, it is a great gift to know the meaning of enough. To be, to do, to have just enough gives your body a new sense of balance and you are finally light enough for your own wings to lift you up.
+  keywords:
+    - All things in moderation
+    - virtuous behavior
+    - a middle path between extremes
+    - consider all sides of the situation
+
+- card: XV The Devil
+  text: >
+    In the darkened halls of the demon lord Malphas, the night closes in around you blinding you to what is before and behind you. Now the world is only what you can feel, what you can touch and taste. You hear only what the shadow whispers to you. There is much pleasure to be found, here where the senses dominate, but the shadow uses your pleasure and relief to forge a golden chain that imprisons your free will. The longer you listen, the harder it is to block the sounds, the harder it will be to regain your own mind.
+  keywords:
+    - Domination
+    - addiction
+    - valuing flesh and the material world above all else
+    - seeking pleasure
+    - giving in to the Shadow
+
+- card: XVI The Tower
+  text: >
+    All day the birds have squawked omens of doom, black winged prophets urging you to flee. You hear the roar and feel the air crackle as the lightning bolt strikes the palace walls. Stone shivers around you, it cannot hold for long. "Stay in this place of opulence" – a voice whispers – "here you have been safe." But the birds' warnings screech in defiance, ringing truer than the honey-sweet words. You seek the door as beams creak and moan.
+  keywords:
+    - Imminent disaster
+    - a shakeup in the natural order
+    - a chance to relinquish old ways of thinking
+    - uncomfortable truths rise to the surface
+
+- card: XVII The Star
+  text: >
+    You have followed the bird through planes of dust and drear. Onward forever and just as your faith threatens to crumble, the smoke clears and she is there. The lady of peace beckons you to her pool. She raises the golden chalices before her in ancient rituals of restoration. "Lay down your burdens here, I have the strength to carry them. Give me your grief and bathe in my pool. What is broken can be mended, what is hurt can be washed clean and restored." You imagine yourself entering the waters and accepting incredible bliss.
+  keywords:
+    - The return of hope
+    - healing
+    - a need to clear energy
+
+- card: XVIII The Moon
+  text: >
+    The shadows lengthen and grow as the shining orb of the moon rises to its zenith, bathing the wastes in a strange silver light. Its expression is inscrutable, revealing nothing, just as its pale illumination casts a weird, otherworldly glow. You look into the eyes of a friend and see a complete stranger. Your journey has given you the mind of a mystic, to hear the unspoken and see the invisible. But if you view the world with this enchanted sight for too long, phantoms emerge from the mists.
+  keywords:
+    - Illusions
+    - messages from instinct and intuition
+    - a journey through darkness
+    - strong psychic information
+    - delusions and madness
+
+- card: XIX The Sun
+  text: >
+    It bows before you, glistening like shining oil. You climb onto its back and great soft wings carry you up, up above mist and smoke and doubt. From this height you see the world anew, where living things sprout and grow out of the concealing shadows, where hearts seek the light. As you fly higher and higher, the light causes your skin to glow with a newfound brilliance. This is who you are, this shining soul held aloft in the darkness. This is a world of opportunities to seek and find great joy.
+  keywords:
+    - Clarity
+    - happiness
+    - find your center
+    - joy
+    - limitless possibility
+
+- card: XX Judgement
+  text: >
+    One note sends them forth to change the world forever. The sleepers awaken to sing a new song with voices restored by their slumber. The clear note of revelation reinvigorates body and soul. What are these new wings of yours? When did they become a part of you? And where now can they take you as you join the chorus in the skies? The old life can be left at the tomb, a new day dawns.
+  keywords:
+    - Awaken
+    - revelation
+    - follow your destiny
+    - transformation
+    - heed the call
+
+- card: XXI The World
+  text: >
+    No journey leaves a soul unchanged. The chrysalis that has held you tight falls away and you emerge into a new life. You are more than you were before. Your black winged companion in the land of shadows has become a part of you, you see with its clear eyes, you speak with its mighty voice. You hold aloft tokens of victory, for the spiral of time has brought you new gifts in accordance with your actions. And now, finally ready, at long last you dance.
+  keywords:
+    - Achieve your goals
+    - completion and culmination
+    - evolve and transform
+    - bear great burdens
+
+- card: Ace of Cups
+  aliases: ["1 of Cups"]
+  text: >
+    You are born out of a cosmic soup of possibilities, the eternal returned. Feathers glistening in the sun, you leave behind the vessel, the egg's empty shell and become aware of your new purpose. In another heartbeat, you can spread your wings and find your heart's desire.
+  keywords:
+    - Dreams manifested
+    - birth
+    - renewal
+    - powerful emotions
+
+- card: Two of Cups
+  aliases: ["2 of Cups"]
+  text: >
+    You see yourself reflected in the eyes of another and begin to truly perceive yourself. To partner is to trust, to let the stranger into your protected inner circles. From this place of intimacy, visions can be shared, dreams hatched. Loneliness washes away as true communication begins.
+  keywords:
+    - Connection
+    - conversation
+    - romance
+
+- card: Three of Cups
+  aliases: ["3 of Cups"]
+  text: >
+    In the wild places of the world you will find your tribe. You teach them your songs and learn theirs in return. They will allow you all of your needed fictions and accept the masks you have chosen to wear. They take your story as it is given and spin it forth to weave with their own. Sublime delights are exchanged without expectations other than a few moments of peace and revelry.
+  keywords:
+    - Friendship
+    - benevolence
+    - harvest
+
+- card: Four of Cups
+  aliases: ["4 of Cups"]
+  text: >
+    You have perched for too long in one place and have forgotten what you were waiting for. In the mists of solitude you can contemplate unhatched plans and unfulfilled dreams; you can try to remember who you were supposed to be. But if you remain seated here, you might stagnate in a fog of anguish and regret, knowing what you have failed to accomplish and what has eluded your grasp. Look over your shoulder, a possibility awaits you, if you will only notice it. Look over your shoulder.
+  keywords:
+    - Quest for perfection
+    - doubt
+    - completion
+    - ignorance
+
+- card: Five of Cups
+  aliases: ["5 of Cups"]
+  text: >
+    As you cry out into the night, the startled members of your murder flap their wings, taking to the darkened skies. If you hold your agony silently, you let it take root too far inside to ever be free of it. So let loose the whoop of pain, of loss, of fatigue, of condemnation. You dig sharp talons into the soil. What does not kill us makes us stronger... or stranger.
+  keywords:
+    - Disappointment
+    - dwelling on mistakes
+    - anxiety
+
+- card: Six of Cups
+  aliases: ["6 of Cups"]
+  text: >
+    Out of the night a sudden vision startles you — your very own reflection. It seems impossible that you are the being you spy in the looking glass. You wonder when things changed so drastically. Let your mind drift back to the times you remembered, the joys of the rosecolored world. Be kind to yourself. Remember yourself as you were, before things became sour.
+  keywords:
+    - Memories
+    - simpler times
+    - innocence
+    - nostalgia
+    - naivete
+
+- card: Seven of Cups
+  aliases: ["7 of Cups"]
+  text: >
+    Phantoms and doubt drift before you and passage seems impossible. You feel illequipped and uneasy. But the shades who haunt your mind are powerless when you reveal your true self to them. Your guides in this realm have never truly left you. Their many gifts can be found within; they add their power to your own. They helped you to perceive the many facets, real and potential. You need only make the right choice to overcome the present obstacle.
+  keywords:
+    - Ilusionary fears
+    - a choice of approach
+    - personal revelation
+
+- card: Eight of Cups
+  aliases: ["8 of Cups"]
+  text: >
+    You can seek for something for so very long and yet discover the desire was not yours after all. Perhaps others encouraged you along this path. The time has come for you to find your own way. You leave them to struggle and attend to petty dramas that no longer hold any meaning for you. The night is young. To remain here is to dwell too long in someone else's dream.
+  keywords:
+    - Choose a new path
+    - a time to pivot
+    - go further
+
+- card: Nine of Cups
+  aliases: ["9 of Cups"]
+  text: >
+    Your guides and angels urge you to travel farther and plumb new depths. But the journey has also taught you much about striving for something and learning to experience joy in what you find. You now know how to fulfill your passions and say to the dark voice of skepticism and hesitation, "Begone, I have found hearth and home and you aren't wanted here anymore."
+  keywords:
+    - Satisfaction
+    - bliss
+    - acceptance
+
+- card: Ten of Cups
+  aliases: ["10 of Cups"]
+  text: >
+    They may squawk and squabble, but some greater force binds you all together. These are your kith and kin. There is a harmony in the sound of your many voices uplifted in unison. Wingtip to wingtip, you soar and dive together, confident in their next move and your own.
+  keywords:
+    - Family
+    - similarities
+    - peace
+
+- card: Page of Cups
+  text: >
+    The contents of the glass swish gently in the chalice as they contemplate the bird, the sound of crickets singing to the rising moon fills the air. Such a curious creature can look at something familiar in a new way. The world opens up before them. They feast their eyes in wonder, imagining what the world cries out for you to create. What others perceive as mindless croaking, they experience as the most fascinating of lessons. Every masterpiece has a humble beginning.
+  keywords:
+    - A creative young soul
+    - discovery
+    - new perspectives
+
+- card: Knight of Cups
+  text: >
+    The soft, dry grasses crunch beneath hooves as the mists part to reveal this worthy traveler. An untamed soul ready to journey beyond the known place to find their destiny. This brave one's passion calls you: "Let us leave all this, there are places only I can show you." The dark eyes beneath the mask remind you that the greater danger is found in not pursuing your dreams.
+  keywords:
+    - Quest for romance
+    - ardent lover
+    - quest for emotional novelty and connection
+
+- card: Queen of Cups
+  text: >
+    The hall fills with the sounds of feasting and merriment and the light of the warm hearth fire casts curious shadows about the room. Majestic in repose, she possesses a quiet mind and an open heart. She can drink in your pain and distill wisdom from it. Kindness is the balm that she offers in the raised goblet. It has the power to wash away the ugly dirt of the world. She fills your glass and your heart to the brim, knowing that both have felt empty for too long.
+  keywords:
+    - Virtuous healer
+    - unconditional love
+
+- card: King of Cups
+  text: >
+    An understanding and agile mind. His goblet offers a clear reflection. Wise counsel is his greatest gift and he is generous in sharing it. His cool head balances his strong heart; and he makes no move out of anger or anxiety. But his brow is troubled; his joy dimmed by taking on others' pain. The lord of the hall's wise counselors, Thought and Memory take their proper place at his side. He has learned to listen to each in turn, knowing it is unwise to trust only his own judgment. Wisdom is learning to balance the advice of heart, body, mind and spirit.
+  keywords:
+    - The master of emotion
+    - weighing emotion and reason
+
+- card: Ace of Pentacles
+  aliases: ["1 of Pentacles"]
+  text: >
+    You have found a firm perch that will serve as the foundation for the life you build from here. Plant the seed deep in firm soil so that it might take root and thrive. A single coin invested well shall make your fortune.
+  keywords:
+    - A prosperous beginning
+    - careful planning
+
+- card: Two of Pentacles
+  aliases: ["2 of Pentacles"]
+  text: >
+    It is difficult to serve two masters. While the soul longs to dance, your feet are planted in the solid earth. Now is a time for balance, for cautious choices, for move followed by countermove. Each thing you love gives you its blessing. By giving them proper attention, you maintain equilibrium.
+  keywords:
+    - Economy of action
+    - caution
+
+- card: Three of Pentacles
+  aliases: ["3 of Pentacles"]
+  text: >
+    You don't have to leave the world the way you found it. Change your surroundings to your liking, find a small part to make more like yourself. Tear out what does not belong and fill the void that cried out for you to shape it.
+  keywords:
+    - Industriousness
+    - skill
+    - playing to your strengths
+
+- card: Four of Pentacles
+  aliases: ["4 of Pentacles"]
+  text: >
+    We erect strong walls to keep safe that which we have earned. It is wise to protect what we treasure, but fear of the thief can rob us of the joy we may experience from our belongings. To hold on too tight is to squeeze the life out of life.
+  keywords:
+    - Protectiveness
+    - greed
+    - mistrust
+    - firm
+
+- card: Five of Pentacles
+  aliases: ["5 of Pentacles"]
+  text: >
+    In a world ruled by machines, living inhabitants feel lost, abandoned, alone. The vice grips tightly and we ache for assistance and support. Our pleas are met by mocking laughter.
+  keywords:
+    - Failure
+    - loss
+    - lack of help or resources
+
+- card: Six of Pentacles
+  aliases: ["6 of Pentacles"]
+  text: >
+    Hands open, hungry mouths feed. Wings lapping against one another, each in the little family stakes its claim to its rightful portion. You must give so that others might eat. In the end, who really serves and who is served? You stretch your hands forth to mouths that never cease crying for more.
+  keywords:
+    - Charity
+    - redistributing resources
+    - balancing energy
+    - self-care
+
+- card: Seven of Pentacles
+  aliases: ["7 of Pentacles"]
+  text: >
+    Resources must be marshaled if we are to reach the farthest shores. Within the earth are ancient devices, long forgotten and requiring deep study. The careless fly forth, risking all. The patient and wise know that the secrets will unfold in time. You make yourself familiar with the spinning wheels and meshed gears, calculating how to adopt them to your designs.
+  keywords:
+    - Biding your time
+    - a fallow season
+    - cautious editing
+    - maintenance
+    - boredom
+
+- card: Eight of Pentacles
+  aliases: ["8 of Pentacles"]
+  text: >
+    In this realm, position is earned, not given. To wear the mask of the healer you must be ready to bring yourself to the very brink of death. The traditions of the past have much to teach. You take up the quill again, dipping it over and over, until the ceaseless grind and the pounding of your own blood in your head wears away all self-doubt.
+  keywords:
+    - Careful study
+    - apprenticeship
+    - diligent work
+    - drudgery
+
+- card: Nine of Pentacles
+  aliases: ["9 of Pentacles"]
+  text: >
+    The great device must follow a single design and purpose. Why shouldn't the purpose be yours? To cultivate the pieces and bring them together in a greater whole is a life's work. Not all visions can be shared and you have built high fences; your allies and followers watch for those who would interfere. Those who create the great masterworks that echo through the ages must choose to live boldly and in accordance with their own destiny.
+  keywords:
+    - Successful enterprise
+    - spirited leadership
+    - completion of a long task
+    - standoffishness
+
+- card: Ten of Pentacles
+  aliases: ["10 of Pentacles"]
+  text: >
+    Your tribe gives you strength. Sifting through things from the past, you find objects that are useful for others and for yourself. When you draw from the shared resources of the flock, there is enough for all.
+  keywords:
+    - Collective wealth
+    - vast resources
+    - legacy
+    - inheritance
+    - reliance on community
+
+- card: Page of Pentacles
+  text: >
+    Listen to the clatter and clink as they work, separating the useful gear from the garbage. A wise and cautious soul deeply interested in learning the intricacies of how the world works. Their love is found in creation, organization and, when they find the courage, even in innovation. Pieces are fit together in new ways and, a little bit at a time, novel designs are born and recorded. Theirs is a delicate and exacting art, requiring time, patience, and concentration.
+  keywords:
+    - A dedicated worker
+    - meticulousness
+    - attention to detail
+
+- card: Knight of Pentacles
+  text: >
+    The birds may squawk at the rider to pick up their pace and bring the horse to a gallop, but their mind is set and their steady step will not be altered by these angry croakers. This one can be relied on to see the quest through to the end. They will journey into uncharted realms; while they gaze at the horizon their wise spirit keeps them safe on the ground. They will follow the certain route to victory. There is a nobility in taking the straight track and turning a blind eye to distraction.
+  keywords:
+    - Devoted emissary
+    - functionary
+    - grounded exploration
+    - taking the sensible path to success
+
+- card: King of Pentacles
+  text: >
+    It is said he can hold that calm, composed gaze longer than any marble statue. Some leaders in this world have to earn their crown. Nothing is handed to them; their fortunes are built with careful planning and shrewd judgement. There is a weariness in those who have adopted such discipline, but they know the true value of every stone in their kingdom. The king will allow no shortcuts, no shirking of duty. He gives advice freely to those who seek his wise counsel. As his neighbor prospers so too shall he.
+  keywords:
+    - Wily businessman
+    - wise use of resources
+    - succeeding through hard work
+    - materialism
+
+- card: Ace of Wands
+  aliases: ["1 of Wands"]
+  text: >
+    This is a wild world, pulsing with purpose and life. It will take great effort to live the adventure that you have been gifted. You set yourself to the task, knowing that each scratch and scar is a lesson you have learned. Your own potential is a mirror of the wild world's greater potential; both are complex, tangled and boundless.
+  keywords:
+    - Vast resources of energy
+    - an exciting adventure is about to begin
+    - incredible potential
+
+- card: Two of Wands
+  aliases: ["2 of Wands"]
+  text: >
+    Into this world you are thrown. The maps here are not yet written and it will take your hands to tame the lands before you, to carve a path so that others may follow in your footsteps. Or you can choose to risk nothing, feel no pain and forever regret not answering adventure's call. Doubt is the first obstacle. You must defeat your doubts before you can take your very first step.
+  keywords:
+    - The desire for adventure
+    - fear of failure
+    - a fork in the road
+    - the will to proceed
+
+- card: Three of Wands
+  aliases: ["3 of Wands"]
+  text: >
+    You hear the velvet lap of wings on the air and scan the horizon for a sign of your returning herald. It whispers news of how all your plans and schemes are taking shape in the many realms you have journeyed. Armed with this knowledge, you pivot from analysis to action. Everything is falling into place.
+  keywords:
+    - The journey has begun
+    - returns on investment
+    - evaluating progress
+    - at the mercy of external forces
+
+- card: Four of Wands
+  aliases: ["4 of Wands"]
+  text: >
+    The strange procession winds its way through the fields. In this bleak and desolate land, any harvest is a blessing to be celebrated. Voices lift together, joyous at new life springing up and sorrowfully remembering those who passed beyond the veil this season. Each cycle brings new joy and sorrow; these rituals help us to find and hold our places on the wheel.
+  keywords:
+    - Joy and exultation
+    - rites of passage
+    - progress
+    - plateau
+
+- card: Five of Wands
+  aliases: ["5 of Wands"]
+  text: >
+    Clatter and crash, the cacophony is raised. For the moment, all hope of peace is lost. Feathers fly free, pulled by wicked beaks as each strives to be the master on the field this day. As the sun beats down, precious time that could be used to fill bellies is spent in the ordeal of dominance and aggression.
+  keywords:
+    - Conflict
+    - competition
+    - frustration
+    - game playing
+    - disorganization
+
+- card: Six of Wands
+  aliases: ["6 of Wands"]
+  text: >
+    Long have you wandered over unforgiving terrain, finally reaching a boundary marker. To continue you must go up and over the border, flouting the limitations others try to impose. You know within your soul that if you leap this fence others will follow and eventually the restraining walls will crumble and fall. You rise up and go forth. Your spirit cannot be contained.
+  keywords:
+    - Rising to meet the challenge
+    - progress
+    - overcoming obstacles
+    - leadership
+    - arrogance
+
+- card: Seven of Wands
+  aliases: ["7 of Wands"]
+  text: >
+    Treading steadily with weary feet through terrain choked with thorns, your boots are in tatters. Only by relying on your staff for careful maneuvering can you navigate the path. Aching from the energy you have expended on this journey, you falter. Not sure if you have the fortitude to take even one more step, you see your companion, sleek wings folded, patiently waiting on a nearby stone. It cocks its beak ever so slightly, ink black eyes never leaving yours. The message rings true within your spirit: keep your head up and have faith. You plant your staff, gather your strength in alignment with your purpose, and take another step.
+  keywords:
+    - Defending your position
+    - preparing for a leap of faith
+    - holding the higher ground
+
+- card: Eight of Wands
+  aliases: ["8 of Wands"]
+  text: >
+    Out of the weeds they rise, their perches shooting up into the sky in defiance of the brambles they grew out of. Between heaven and earth, they are noble birds ready to fly free. You feel an itch between your shoulder blades and you could swear that trembling beneath your skin, ready to unfold and carry you into the clouds, you feel your own magnificent wings.
+  keywords:
+    - Taking to the sky
+    - rapid growth
+    - extreme intensity
+    - coordination
+
+- card: Nine of Wands
+  aliases: ["9 of Wands"]
+  text: >
+    How quickly things can turn! Your boon companions, your faithful guides, now dart about you, pecking mercilessly. You teeter on the brink, a breath away from falling into vines that will cut you and hold you fast. You rally your strength to defend the hill you have worked so hard to climb. They won't take this from you, not today.
+  keywords:
+    - Defending your position
+    - facing adversity
+    - endurance
+    - struggle
+
+- card: Ten of Wands
+  aliases: ["10 of Wands"]
+  text: >
+    Do journeys ever end? You found the boon you sought, secured it at great pains to yourself and now you must bring it home. Its weight crushes you, bending your back toward the tangled terrain. How easy it would be to simply let it fall, to be free of it, so you could stride unencumbered towards the horizon. But then what would it all have been for? You summon the last of your resolve and continue towards the setting sun.
+  keywords:
+    - Grueling experience
+    - being ground down
+    - at the end of your energy and resources
+
+- card: Ace of Swords
+  aliases: ["1 of Swords"]
+  text: >
+    In one swift motion the blade whistles through the air and the squawking is silenced. To begin anew some things must come to an end; the path must be cleared of obstacles and debris. In the quiet air, heavy with possibility, new thoughts emerge.
+  keywords:
+    - A decisive new beginning
+    - clearing away what does not serve
+    - painful surprise
+
+- card: Two of Swords
+  aliases: ["2 of Swords"]
+  text: >
+    Not all decisions have clear answers born of instinct. Sometimes the best solution emerges in its own time. Cutting off your own senses, you let advisers give their opposing counsel. And you wait, and you wait. A train of ivy grows up around you and still you wait, allowing the truth to manifest in the ebb and flow of your mind.
+  keywords:
+    - Careful consideration
+    - weighing options
+    - waiting for the opportune moment
+    - fear of making a decision
+
+- card: Three of Swords
+  aliases: ["3 of Swords"]
+  text: >
+    There are many deep wounds that we survive if only we could find a way to extricate ourselves from the source of pain. The blades pierce the heart at many angles — the pain throbs in the body, in the emotions, in the memory. It's memory that takes the longest to heal. Long after the body has mended, the scar of betrayal will linger. Constant attention to our pain keeps us from healing.
+  keywords:
+    - Heartache
+    - treachery
+    - holding onto old hurts
+    - inconsolable sadness
+
+- card: Four of Swords
+  aliases: ["4 of Swords"]
+  text: >
+    You enter the still crypt with trepidation. The cool marble slab invites you to lay down your cares and woes for awhile. To rest on the bier seems like tempting fate, goading it into making your rest eternal. At last the quiet penetrates you. Without troublesome dreams, sleep brings peace that can restore you in the fullness of time.
+  keywords:
+    - Self-care
+    - rest and recuperation
+    - peace and quiet
+    - a debilitating situation
+
+- card: Five of Swords
+  aliases: ["5 of Swords"]
+  text: >
+    This world can be such a savage place, where hunter and prey are locked in a fate they cannot escape. You hear their cries of challenge, they are coming and they mean to strike. To bypass claws that tear and beaks that bite, your sword arm must be merciless and true.
+  keywords:
+    - Use of force
+    - bullying
+    - unkindness
+    - winning at any cost
+
+- card: Six of Swords
+  aliases: ["6 of Swords"]
+  text: >
+    The land is hushed as you approach the shore. Rolling mists obscure the far bank. The ferryman beckons you into the boat. This place holds a familiar loneliness, a feeling you have outgrown, like a too-tight skin. There is no guarantee that the next world holds any greater promise, but still, in hope, you step into the boat for the chance of a better life beyond the tides.
+  keywords:
+    - Passage
+    - leaving behind the known
+    - journey over water
+
+- card: Seven of Swords
+  aliases: ["7 of Swords"]
+  text: >
+    Clever wings swoop; the nimble beak strikes true. Your wings carry you as you raise your prize aloft. This is the victory your talents and skills afford you, striking in shadows, moving unseen, playing by only your own rules, or by no rules at all. There are those who shake their heads at your larcenous ways, but their approval doesn't feed you or your hatchlings.
+  keywords:
+    - Cunning
+    - non-confrontational problem solving
+    - thinking outside the box
+    - theft
+
+- card: Eight of Swords
+  aliases: ["8 of Swords"]
+  text: >
+    Terror seizes you as the trap takes hold. Legs locked firmly, arms outstretched. You cry to the heavens but only the birds answer and they are no good to you in this precarious position. All is not lost, but it will take all your resolve to extricate yourself from this prison. Limbs will need to move with cautious effort. If only you could quiet your racing mind long enough to figure out how to claw your way free.
+  keywords:
+    - Entrapment
+    - disempowerment
+    - a careful retreat is needed
+
+- card: Nine of Swords
+  aliases: ["9 of Swords"]
+  text: >
+    Of all the horrors you face in this land, the most overwhelming are those that take shape in your mind. Pitiless wings the color of the void unfold before you. A shrill cry penetrates your bones. The demons in your dreams, your own demons, rob you of sleep.
+  keywords:
+    - Fears
+    - oppression
+    - insomnia
+
+- card: Ten of Swords
+  aliases: ["10 of Swords"]
+  text: >
+    Beaks tear and rend. Torn flesh releases fountains of blood, pale limbs cool and stiffen. Restrained by cold iron, you writhe in agony, grinding your body into the dense foliage that will soon claim it. You prepare your spirit to fly free before it's too late. You have managed it before. Now, just in the nick of time, you release your spirit — a wail of rage that rattles the heavens. One journey must end before another begins.
+  keywords:
+    - Defeat
+    - loss
+    - illness
+    - the need for an immediate exit
+
+- card: Page of Swords
+  text: >
+    All is still and quiet as this one keeps watch over their post. With a keen mind to the world's wonders and puzzles, this one watches from the shadows, drinking in all they can see. They move cautiously and aim to be invisible so they can uncover and remember hidden secrets. There is no information they cannot turn to their advantage when the time is right.
+  keywords:
+    - The attentive observer
+    - keen insights
+    - cleverness
+    - espionage
+
+- card: Knight of Swords
+  text: >
+    The horse whinnies as its rider spurs it onward. An unstoppable force, this one propels themselves faster and faster, further beyond. Heedless of danger and without hesitation, they rush into battle held high by their own zeal and drive. Do not be fooled into thinking they are unthinking. Rather, they have mastered the skill of relying upon their instincts to guide them to the right decision moment by moment and they do not hold back. To falter is to lose.
+  keywords:
+    - Reckless hero
+    - lack of preparation
+    - readying for battle
+    - fickleness
+
+- card: Queen of Swords
+  text: >
+    Here is a spirit who never hesitates to step over corpses in her pursuits. She has felt much pain but always gained incredible wisdom from the experience, crafting a resolute diamond-hard will. She has learned to edit things out of her life with surgical precision, keeping only what she needs to gain power and achieve her goals. Fools think they can outsmart her but she cleans their blood from her blade all the same. Their mistake was forgetting that no one is entirely as they seem — just look at her shadow and you will see there is more to her than meets the eye.
+  keywords:
+    - Wise governance
+    - accomplishing difficult tasks
+    - femme fatale
+    - bitterness
+
+- card: King of Swords
+  text: >
+    Ambition and a long view of the world has won him many victories. Renowned for taking the right action at the most opportune moment, he has few surviving enemies. To lead he must be willing to do what is most difficult, to go where others cannot. Though scarred and battered from many battles, he keeps his blade sharpened to deliver a deadly bite.
+  keywords:
+    - Ingenious general
+    - taking the long view
+    - impartial decisions
+    - heartlessness
